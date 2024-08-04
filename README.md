@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gregory Phiri</h1>
+[![MasterHead](https://github.com/GreyWolf2020/GreyWolf2020/blob/main/resources/masterhead.svg)](https://github.com/GreyWolf2020/GreyWolf2020/blob/main/resources/masterhead.svg)
 <h3 align="center">An enthusiastic android developer from Zimbabwe</h3>
 <img align="right" alt="Developer" width="300" src="resources/developer.gif" />
 
